@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1529675800 source:c:\users\lautaro\desktop\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1529871255 source:c:\users\usuario\desktop\tpfinal-lauty\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
